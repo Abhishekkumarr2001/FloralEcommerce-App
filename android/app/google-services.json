@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "975578371162",
+    "project_id": "floralecommerce-e5088",
+    "storage_bucket": "floralecommerce-e5088.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975578371162:android:04885781cf28d83bd1b463",
+        "android_client_info": {
+          "package_name": "com.example.floral_ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975578371162-fda0f3i7eovuvqaqgtfs34psr5evi226.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMUZl3ZYlMc4j7DAWntvH_dEQzMZX9_y4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975578371162-fda0f3i7eovuvqaqgtfs34psr5evi226.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
